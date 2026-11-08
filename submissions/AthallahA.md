@@ -13,7 +13,7 @@
 
 | Pertemuan | Topik Tugas | Tautan File Workflow (.json) | Bukti Eksekusi (Screenshot) | Status |
 | :---: | :--- | :---: | :---: | :---: |
-| **P1** | Pengenalan n8n & Workflow Automation Dasar | [P1_Athallah_A.json](https://github.com/ardi1600/GDGoC-n8n-StudyJam/blob/main/P1_Athallah_A.json) | [P1_Nama.png](https://github.com/username-anda/GDGoC-n8n-StudyJam/blob/main/P1_Athallah_A.png) | Selesai |
+| **P1** | Pengenalan n8n & Workflow Automation Dasar | [P1_Athallah_A.json](https://github.com/ardi1600/GDGoC-n8n-StudyJam/blob/main/P1_Athallah_A.json) | [P1_Nama.png](https://github.com/ardi1600/GDGoC-n8n-StudyJam/blob/main/P1_Athallah_A.png) | Selesai |
 | **P2** | Webhook Triggers & Data Transformation | [P2_Nama.json](https://github.com/username-anda/GDGoC-n8n-StudyJam/blob/main/Pertemuan-02/P2_Nama.json) | [P2_Nama.png](https://github.com/username-anda/GDGoC-n8n-StudyJam/blob/main/Pertemuan-02/P2_Nama.png) | Selesai |
 | **P3** | Advanced API Integration & Error Handling | [P3_Nama.json](https://github.com/username-anda/GDGoC-n8n-StudyJam/blob/main/Pertemuan-03/P3_Nama.json) | [P3_Nama.png](https://github.com/username-anda/GDGoC-n8n-StudyJam/blob/main/Pertemuan-03/P3_Nama.png) | Selesai |
 | **P4** | AI Agent & LLM Chain Automation di n8n | [P4_Nama.json](https://github.com/username-anda/GDGoC-n8n-StudyJam/blob/main/Pertemuan-04/P4_Nama.json) | [P4_Nama.png](https://github.com/username-anda/GDGoC-n8n-StudyJam/blob/main/Pertemuan-04/P4_Nama.png) | Selesai |
